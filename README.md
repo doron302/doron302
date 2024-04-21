@@ -18,7 +18,7 @@ I'm a second-year Computer Science student at The Hebrew University, also pursui
 Apart from my tech pursuits, I love rock climbing and traveling, which help me stay inspired and energized for my next big project.
 
 ## Contact Me
-- **Email**: doron302@gmail.com
+**Email**: doron302@gmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/doron302)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/doron-shwartz/) 
 
