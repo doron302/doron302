@@ -3,18 +3,18 @@
 ## About Me
 I'm a second-year Computer Science student at The Hebrew University, also pursuing a minor in Game Design and Development at Bezalel Academy. I am deeply passionate about learning and solving complex problems, using my technical skills to innovate and improve. My approach integrates a blend of creativity and analytical thinking to tackle diverse challenges.
 
-## Technical Skills
+## Technical Skills 💻
 - **Languages**: Python, C, C++, C#, Assembly
 - **Tools**: Unity
 - **Interests**:  software development, algorithms, Game development, AI, machine learning.
 
-## Personal Interests
+## Personal Interests 🧗🏻🏔️
 - **Rock Climbing & Travel**: Passionate about rock climbing and exploring new cultures worldwide.
 
-## Projects
+## Projects 🕹️
 - **Arcade Game Replica**: Developed a basic replica of the classic arcade game Donkey Kong (1981) as part of my coursework. This project showcases my ability to replicate game mechanics and implement engaging user interfaces.
 
-## Fun Fact
+## Fun Fact 
 Apart from my tech pursuits, I love rock climbing and traveling, which help me stay inspired and energized for my next big project.
 
 ## Contact Me
