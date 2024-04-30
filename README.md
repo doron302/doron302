@@ -14,9 +14,6 @@ I'm a second-year Computer Science student at The Hebrew University, also pursui
 ## Projects 🕹️
 - **Arcade Game Replica**: Developed a basic replica of the classic arcade game Donkey Kong (1981) as part of my coursework. This project showcases my ability to replicate game mechanics and implement engaging user interfaces.
 
-## Fun Fact 
-Apart from my tech pursuits, I love rock climbing and traveling, which help me stay inspired and energized for my next big project.
-
 ## Contact Me
 **Email**: doron302@gmail.com
 
