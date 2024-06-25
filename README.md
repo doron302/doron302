@@ -5,7 +5,7 @@ I'm a second-year Computer Science student at The Hebrew University, also pursui
 
 ## Technical Skills 💻
 - **Languages**: Python, C, C++, C#, Assembly
-- **Tools**: Unity
+- **Tools**: Unity,Git
 - **Interests**:  software development, algorithms, Game development, AI, machine learning.
 
 ## Personal Interests 🧗🏻🏔️
