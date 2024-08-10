@@ -12,6 +12,11 @@ I'm a second-year Computer Science student at The Hebrew University, also pursui
 - **Rock Climbing & Travel**: Passionate about rock climbing and exploring new cultures worldwide.
 
 ## Projects 🕹️
+
+- **ML Hackathon - Predictive Models for Passenger Boarding and Trip Duration**: Developed and optimized predictive models using XGBRegressor in a bus line system.
+
+- **Santa Transportation Inc - 2.5D Multiplayer Puzzle Game**: Developed a 2.5D multiplayer puzzle game in Unity.
+
 - **Arcade Game Replica**: Developed a basic replica of the classic arcade game Donkey Kong (1981) as part of my coursework. This project showcases my ability to replicate game mechanics and implement engaging user interfaces.
 
 ## Contact Me
